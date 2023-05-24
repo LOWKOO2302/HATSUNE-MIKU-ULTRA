@@ -4,9 +4,9 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5212411719888', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
-  ['5212411347465', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['17745190032', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['17745198093', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
+  ['17744205538', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
   ['5212412377467', '𝙾𝙵𝙲 𝚈𝙾𝚅𝙰𝙽𝙸', true],
 ]
 global.suittag =['5212412477467']
@@ -75,9 +75,9 @@ global.ig = 'https://www.instagram'
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git'
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt'
+global.nn = 'https://chat.whatsapp.com/'
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ'
+global.nnn = 'https://chat.whatsapp.com/'
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
